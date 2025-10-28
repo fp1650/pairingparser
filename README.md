@@ -19,7 +19,6 @@ Visit [https://beta.pairingviewer.com](https://beta.pairingviewer.com)
 - 📱 Optimized UI for **iPad Pro M4 landscape**
 - 🌙 Night mode + persistent column layout with Tabulator
 - 🔍 Instant search, filter by redeye, commutable, lazy, weekdays, etc.
-- 💾 Offline caching: reuploads of identical files load instantly
 
 ---
 
@@ -29,7 +28,6 @@ Visit [https://beta.pairingviewer.com](https://beta.pairingviewer.com)
 |-------|--------|
 | Frontend | HTML5 + Tabulator 5.x + Vanilla JS |
 | Backend | Flask (Python 3.11+) + PyMuPDF |
-| Cache | JSON Gzip (local `cache/` directory) |
 | Hosting | Any VPS (Nginx + Gunicorn + Certbot) |
 
 ---
