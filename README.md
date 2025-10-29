@@ -14,7 +14,7 @@ Visit [https://beta.pairingviewer.com](https://beta.pairingviewer.com)
 ## 🚀 Features
 
 - 📄 Upload airline pairing PDF (supports both **Final** and **Prelim**)
-- ⚡ Fast, parallelized PDF-to-text extraction with caching (SHA-256 based)
+- ⚡ Fast, parallelized PDF-to-text extraction
 - 🧠 Smart parser: detects TAFB, per diem, layovers, report/release times, and more
 - 📱 Optimized UI for **iPad Pro M4 landscape**
 - 🌙 Night mode + persistent column layout with Tabulator
