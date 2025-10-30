@@ -1,6 +1,6 @@
 # ✈️ Pairing Parser Web App
 
-A lightweight, self-hosted **PDF pairing schedule parser and viewer** built for airline pilots.  
+A lightweight, self-hosted PDF pairing schedule parser and viewer built for airline pilots.  
 It extracts and visualizes monthly pairing PDFs (final or prelim) into structured, searchable tables — optimized for iPad Pro and desktop browsers.
 
 ---
