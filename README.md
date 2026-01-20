@@ -7,7 +7,7 @@ It extracts and visualizes monthly pairing PDFs (final or prelim) into structure
 
 ## 🌐 Live Demo
 
-Visit [https://beta.pairingviewer.com](https://beta.pairingviewer.com)
+Visit [https://pairingviewer.com](https://pairingviewer.com)
 
 ---
 
